@@ -789,4 +789,4 @@ diagonal dominates; the classic 4↔9 / 3↔5 confusions remain.*
 *a model is trained in a framework, exported as a graph, optimized by
 the compiler, and the optimized artifact is verified against the
 trained model before deployment.* The UI exposes the same experiment
-(📈 training tab with the curves and the compiled-model comparison).
+(📈 training tab with the curves and the compiled-model comparison)
